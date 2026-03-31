@@ -10,7 +10,7 @@
 
 ## 📊 Dashboard Preview
 
-![Blinkit KPI Dashboard](background%20kpi.png)
+![Blinkit KPI Dashboard](<img width="507" height="328" alt="image" src="https://github.com/user-attachments/assets/b5c091f1-79eb-4176-baaf-ca97a71e4f54" />)
 
 ---
 
