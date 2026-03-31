@@ -9,9 +9,7 @@
 ---
 
 ## 📊 Dashboard Preview
-
-![Blinkit KPI Dashboard](<img width="507" height="328" alt="Blinkit powerbi" src="https://github.com/user-attachments/assets/92e31f03-7790-4462-b222-70abe17cbf13" />)
-
+![Blinkit KPI Dashboard](dashboard_preview.png)
 ---
 
 ## 🎯 Project Objective
